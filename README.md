@@ -1,6 +1,13 @@
 # port-scanner
 ##### A python script wich allows to find available ports
 
+## Table des matières
+1. [Description](#description)
+2. [Fonctionnalités](#fonctionnalités)
+3. [Installation](#installation)
+4. [Exemples](#utilisation)
+5. [Limitations](#tests)
+
 ## Description
 
   Ce projet est un scanner de ports développé en Python. Il permet de :
