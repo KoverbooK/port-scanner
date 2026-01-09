@@ -5,8 +5,8 @@
 1. [Description](#description)
 2. [Fonctionnalités](#fonctionnalités)
 3. [Installation](#installation)
-4. [Exemples](#utilisation)
-5. [Limitations](#tests)
+4. [Exemples](#exemples)
+5. [Limitations](#limitations)
 
 ## Description
 
